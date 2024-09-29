@@ -1,0 +1,4 @@
+baseURL = 'https://log.mheow.com/'
+languageCode = 'en-us'
+title = 'Mheow-Log'
+theme = 'ananke'
